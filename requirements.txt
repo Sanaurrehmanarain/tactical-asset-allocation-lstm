@@ -1,0 +1,23 @@
+# Core
+numpy>=1.23
+pandas>=1.5
+
+# Visualization
+matplotlib>=3.7
+seaborn>=0.12
+
+# Finance data
+yfinance>=0.2
+
+# Statistics / econometrics
+statsmodels>=0.14
+
+# ML utilities
+scikit-learn>=1.2
+
+# Deep learning
+tensorflow>=2.12
+
+# Notebooks (recommended for reproducibility)
+jupyter>=1.0
+ipykernel>=6.0

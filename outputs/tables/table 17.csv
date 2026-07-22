@@ -1,0 +1,5 @@
+Metric,Value
+Average Turnover per Rebalance,0.9111111111111111
+Total Transaction Cost (sum(tc*turnover)),0.04100000000000001
+Transaction Cost Rate (tc),0.001
+Number of Rebalances,45.0
