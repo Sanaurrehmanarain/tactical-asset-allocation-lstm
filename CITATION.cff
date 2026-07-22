@@ -1,5 +1,5 @@
 cff-version: 1.2.0
-title: "Project Title"
+title: "tactical-asset-allocation-lstm"
 message: "If you use this project in your research, publication, or educational work, please cite it using the metadata below."
 type: software
 
@@ -8,9 +8,9 @@ authors:
     given-names: "Arain"
     affiliation: "Data Scientist"
 
-repository-code: "https://github.com/sanaurrehmanarain/project-name"
+repository-code: "https://github.com/sanaurrehmanarain/tactical-asset-allocation-lstm"
 
-license: "All Rights Reserved"
+license: "MIT"
 
 abstract: >
   A data science portfolio project created for educational purposes,
@@ -24,13 +24,13 @@ keywords:
   - data analysis
   - portfolio
 
-date-released: 2026-07-16
+date-released: 2026-07-23
 
 preferred-citation:
   type: software
   authors:
     - family-names: "Sana"
       given-names: "Arain"
-  title: "Project Title"
+  title: "tactical-asset-allocation-lstm"
   year: 2026
-  url: "https://github.com/sanaurrehmanarain/project-name"
+  url: "https://github.com/sanaurrehmanarain/tactical-asset-allocation-lstm"
