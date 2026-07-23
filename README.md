@@ -285,7 +285,6 @@ Identical rebalancing rules and cost model as Step 2 for direct comparison.
 │   ├── 01_step1_eda.ipynb                      # Exploratory data analysis
 │   ├── 02_step2_single_output_lstm.ipynb       # 5 specialist LSTM models
 │   ├── 03_step3_multi_output_lstm.ipynb        # Joint multi-output LSTM
-│   └── 04_step4_discussion_notes.ipynb         # Interpretation & comparison
 │
 ├── data/
 │   ├── adj_close.csv                           # Raw adjusted close prices
@@ -335,7 +334,7 @@ Identical rebalancing rules and cost model as Step 2 for direct comparison.
 ### Step 1: Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/tactical-asset-allocation-lstm.git
+git clone https://github.com/sanaurrehmanarain/tactical-asset-allocation-lstm.git
 cd tactical-asset-allocation-lstm
 ```
 
@@ -379,7 +378,6 @@ Open VS Code with Jupyter extension and execute notebooks **sequentially**:
 1. `01_step1_eda.ipynb` — Data download, preprocessing, exploratory analysis
 2. `02_step2_single_output_lstm.ipynb` — Train 5 specialist models + strategy backtest
 3. `03_step3_multi_output_lstm.ipynb` — Train joint model + comparative backtest
-4. `04_step4_discussion_notes.ipynb` — Results interpretation & insights
 
 **Execution Time**: ~30-60 minutes total (depending on hardware)
 
