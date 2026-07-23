@@ -596,7 +596,7 @@ If you use this project in your research or work, please cite:
 
 ```bibtex
 @misc{tactical_allocation_lstm,
-  author = {Sana Ur Rehman Arain},
+  author = {Arain, Sana Ur Rehman},
   title = {Tactical vs Strategic Asset Allocation with Deep Learning (LSTM)},
   year = {2026},
   publisher = {GitHub},
