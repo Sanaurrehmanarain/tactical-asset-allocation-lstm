@@ -390,7 +390,7 @@ Open VS Code with Jupyter extension and execute notebooks **sequentially**:
 #### Correlation Heatmap
 *Asset correlation structure (2015-2022)*
 
-![Correlation Heatmap](outputs/figures/corr_heatmap.png)
+![Correlation Heatmap](outputs/figures/6.png)
 
 **Key Observations**:
 - SPY and TLT show negative correlation (flight-to-safety effect)
@@ -402,7 +402,7 @@ Open VS Code with Jupyter extension and execute notebooks **sequentially**:
 #### Rolling Volatility Analysis
 *30-day rolling volatility across asset classes*
 
-![Rolling Volatility](outputs/figures/rolling_vol.png)
+![Rolling Volatility](outputs/figures/5.png)
 
 **Key Observations**:
 - Oil (DBO) displays highest volatility and regime shifts
@@ -415,7 +415,7 @@ Open VS Code with Jupyter extension and execute notebooks **sequentially**:
 
 #### Equity Curve (Net of Transaction Costs)
 
-![Step 2 Equity Curve](outputs/figures/step2_equity_curve_net.png)
+![Step 2 Equity Curve](outputs/figures/15.png)
 
 **Performance Summary (Test Period: 2018-2022)**:
 
@@ -434,7 +434,7 @@ Open VS Code with Jupyter extension and execute notebooks **sequentially**:
 
 #### Strategy Equity Curves
 
-![Strategy Comparison](outputs/figures/step3_equity_curve_comparison.png)
+![Strategy Comparison](outputs/figures/18.png)
 
 **Comparative Performance**:
 
@@ -598,9 +598,9 @@ If you use this project in your research or work, please cite:
 @misc{tactical_allocation_lstm,
   author = {Sana Ur Rehman Arain},
   title = {Tactical vs Strategic Asset Allocation with Deep Learning (LSTM)},
-  year = {2024},
+  year = {2026},
   publisher = {GitHub},
-  url = {https://github.com/yourusername/tactical-asset-allocation-lstm}
+  url = {https://github.com/sanaurrehman/tactical-asset-allocation-lstm}
 }
 ```
 
